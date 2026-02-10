@@ -107,6 +107,9 @@ Below are real execution screenshots of the automation workflow:
 ### Platform Personalization Output (LinkedIn)
 ![LinkedIn Output](images/linkedin-output.jpeg)
 
+### Facebook Automation Output
+![Facebook Output](images/facebook-output.jpeg)
+
 ### Telegram Automation Output
 ![Telegram Output](images/telegram-output.jpeg)
 
