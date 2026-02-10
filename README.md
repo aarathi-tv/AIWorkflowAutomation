@@ -96,3 +96,17 @@ Auto-scheduling optimization
 Performance-based content variation
 
 CRM integration
+
+## 📸 Implementation Screenshots
+Below are real execution screenshots of the automation workflow:
+
+
+### Workflow Architecture
+![Workflow](images/workflow-overview.jpeg)
+
+### Platform Personalization Output (LinkedIn)
+![LinkedIn Output](images/linkedin-output.jpeg)
+
+### Telegram Automation Output
+![Telegram Output](images/telegram-output.jpeg)
+
